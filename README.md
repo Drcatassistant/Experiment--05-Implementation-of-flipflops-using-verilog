@@ -1,6 +1,9 @@
-## DEVELOPED BY : JACKSON RAJ A
-## REGISTER NUMBER: 212223040071
-# Experiment--05-Implementation of flipflops using verilog
+
+## 5.Implementation of flipflops using verilog
+
+DEVELOPED BY : JACKSON RAJ A
+
+REGISTER NUMBER: 212223040071
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
